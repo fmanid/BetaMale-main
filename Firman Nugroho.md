@@ -6,3 +6,4 @@ Latihan
 analisis mengenai kenapa scrum sekarang lebih sering 
 digunakan khususnya dalam hubungannya dengan pengujian perangkat lunak
 Jawab :
+karena sulit
